@@ -1,3 +1,6 @@
+![Spotify Logo](./Spotifyimg.png)
+
+
 # 🎧 Spotify Data Analysis 📊
 
 Welcome to my **Spotify Data Analysis Project**, where I explore and analyze Spotify music data to gain meaningful insights and solve business problems. This project focuses on analyzing various metrics related to tracks, artists, albums, and user engagement using **SQL queries**.
