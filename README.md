@@ -43,4 +43,10 @@ Welcome to my **Spotify Data Analysis Project**, where I explore and analyze Spo
 #### 🔺 **Advanced Level Queries**
 - Use window functions to find the top 3 most-viewed tracks for each artist  
 - Identify tracks with a liveness score above the average  
-- Calculate the difference between the highest and lowest energy values for tracks in each album  
+- Calculate the difference between the highest and lowest energy values for tracks in each album
+
+  ## 📧 Connect with Me
+
+- **Email:** [arundeepp@gmail.com](mailto:arundeepp@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/arun](https://www.linkedin.com/in/arun)  
+- **GitHub:** [github.com/ArunCooksData](https://github.com/ArunCooksData)  
