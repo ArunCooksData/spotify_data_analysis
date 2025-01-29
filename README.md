@@ -48,5 +48,5 @@ Welcome to my **Spotify Data Analysis Project**, where I explore and analyze Spo
   ## 📧 Connect with Me
 
 - **Email:** [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 
-- **LinkedIn:** [linkedin.com/in/arun](https://www.linkedin.com/in/arun)  
+- **LinkedIn:** [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/)  
 - **GitHub:** [github.com/ArunCooksData](https://github.com/ArunCooksData)  
